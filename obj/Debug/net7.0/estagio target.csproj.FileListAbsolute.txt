@@ -1,0 +1,15 @@
+C:\Users\HP\Desktop\estagio target\obj\Debug\net7.0\estagio target.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\estagio target\obj\Debug\net7.0\estagio target.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\estagio target\obj\Debug\net7.0\estagio target.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\estagio target\obj\Debug\net7.0\estagio target.AssemblyInfo.cs
+C:\Users\HP\Desktop\estagio target\obj\Debug\net7.0\estagio target.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\estagio target\bin\Debug\net7.0\estagio target.exe
+C:\Users\HP\Desktop\estagio target\bin\Debug\net7.0\estagio target.deps.json
+C:\Users\HP\Desktop\estagio target\bin\Debug\net7.0\estagio target.runtimeconfig.json
+C:\Users\HP\Desktop\estagio target\bin\Debug\net7.0\estagio target.dll
+C:\Users\HP\Desktop\estagio target\bin\Debug\net7.0\estagio target.pdb
+C:\Users\HP\Desktop\estagio target\obj\Debug\net7.0\estagio target.dll
+C:\Users\HP\Desktop\estagio target\obj\Debug\net7.0\refint\estagio target.dll
+C:\Users\HP\Desktop\estagio target\obj\Debug\net7.0\estagio target.pdb
+C:\Users\HP\Desktop\estagio target\obj\Debug\net7.0\estagio target.genruntimeconfig.cache
+C:\Users\HP\Desktop\estagio target\obj\Debug\net7.0\ref\estagio target.dll
